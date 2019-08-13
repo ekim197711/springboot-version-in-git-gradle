@@ -1,0 +1,3 @@
+Welcome to my spring application with version placed in git.
+
+My version: ${application.version}
